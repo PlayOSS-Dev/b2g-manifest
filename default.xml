@@ -94,7 +94,7 @@
   <project path="system/vold" name="platform/system/vold" />
 
   <!-- Commtiva z71 specific things -->
-  <project path="vendor/commtiva/z71" name="pjsports/android_vendor_commtiva_z71" remote="gh" revision="gingerbread" />
+  <project path="vendor/commtiva/z71" name="pjsports/android_vendor_commtiva_z71" remote="gh" revision="master" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="gh" revision="gingerbread" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="gh" revision="gingerbread" />
 
