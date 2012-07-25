@@ -7,8 +7,8 @@
            fetch="git://android.git.linaro.org/" />
   <remote name="b2g"
           fetch="git://github.com/mozilla-b2g/" />
-  <remote  name="gh"
-           fetch="git://github.com/" />    
+  <remote  name="cm"
+           fetch="https://github.com/CyanogenMod" />    
   <remote name="mozilla"
 	  fetch="git://github.com/mozilla/" />
   <default revision="refs/tags/android-4.0.4_r2.1"
@@ -95,9 +95,7 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
 
-  <!-- Commtiva z71 specific things -->
-  <project path="vendor/commtiva/z71" name="pjsports/proprietary_vendor_commtiva" remote="gh" revision="master" />
-  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="gh" revision="gingerbread" />
-  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="gh" revision="gingerbread" />
+  <!-- z71 specific things -->
+  <project path="device/commtiva/z71" name="android_device_commtiva_z71" remote="cm" revision="gingerbread" />
 
 </manifest>
