@@ -95,10 +95,8 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
 
-  <!-- acer a500 specific things -->
-  <project path="device/acer/a500" name="CyanogenMod/android_device_acer_a500" remote="gh" revision="ics" />
-  <project path="vendor/acer/a500" name="iconia-dev/android_vendor_acer_a500" remote="gh" revision="ics" />
-  <project path="device/acer/t20-common" name="CyanogenMod/android_device_acer_t20-common" remote="gh" revision="ics" />
-  <project path="kernel/acer/t20-common" name="CyanogenMod/android_kernel_acer_t20-common" remote="gh" />
+  <!-- commtiva z71 specific things -->
+  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="gh" revision="gingerbread" />
+  <project path="vendor/commtiva/z71" name="rmcc/proprietary_vendor_commtiva" remote="gh" />
   
 </manifest>
