@@ -99,6 +99,6 @@
   <project path="device/acer/a500" name="CyanogenMod/android_device_acer_a500" remote="gh" revision="ics" />
   <project path="vendor/acer/a500" name="iconia-dev/android_vendor_acer_a500" remote="gh" revision="ics" />
   <project path="device/acer/t20-common" name="CyanogenMod/android_device_acer_t20-common" remote="gh" revision="ics" />
-  <project path="kernel/acer/t20-common" name="CyanogenMod/android_kernel_acer_t20-common" remote="gh" />
+  <project path="kernel/acer/t20-common" name="CyanogenMod/android_kernel_acer_t20-common" remote="gh" revision="2.6.39" />
   
 </manifest>
