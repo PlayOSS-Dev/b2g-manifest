@@ -103,7 +103,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <!-- commtiva z71 specific things -->
-  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" />
+  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="gh" revision="gingerbread" />
   <project path="vendor/commtiva" name="pjsports/proprietary_vendor_commtiva" remote="gh" revision="master" />
   
 </manifest>
