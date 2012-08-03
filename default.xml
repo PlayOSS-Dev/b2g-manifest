@@ -44,7 +44,7 @@
   <project path="external/dnsmasq" name="platform/external/dnsmasq" />
   <project path="external/expat" name="platform/external/expat" />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
-  <project path="external/flac" name="platform/external/flac" />
+  <project path="external/flac" name="CyanogenMod/android_external_flac" remote="gh" revision="gingerbread" />
   <project path="external/freetype" name="platform/external/freetype" revision="15321e16a085b9b5c85cf029aee86bf57b2e65c1" />
   <project path="external/giflib" name="platform/external/giflib" />
   <project path="external/gtest" name="platform/external/gtest" revision="master" />
