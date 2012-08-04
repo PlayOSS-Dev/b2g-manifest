@@ -87,8 +87,8 @@
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="Cyan   edogenMod/android_system_core" />
-  <project path="system/extras" name="Cyan  ogenMod/android_system_extras" />
+  <project path="system/core" name="CyanogenMod/android_system_core" />
+  <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
