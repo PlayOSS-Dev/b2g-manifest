@@ -22,8 +22,7 @@
   <project path="gaia" name="gaia" remote="b2g" revision="master" />
   <project path="gecko" name="mozilla-central" remote="mozilla" revision="master" />
   <project path="gonk-misc" name="gonk-misc" remote="b2g" revision="master" />
-  <project path="rilproxy" name="rilproxy" remote="b2g" revision="master" />
-  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
+  <project path="rilproxy" name="rilproxy" remote="b2g" revision="master" />  
   <project path="external/qemu" name="platform_external_qemu" remote="b2g" revision="master" />
   <project path="external/opensans" name="platform_external_opensans" remote="b2g" revision="master" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
@@ -73,6 +72,8 @@
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
+  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
