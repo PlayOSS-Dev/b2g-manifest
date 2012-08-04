@@ -5,8 +5,6 @@
            fetch="https://android.googlesource.com/" />
   <remote name="b2g"
           fetch="git://github.com/mozilla-b2g/" />
-  <remote  name="linaro"
-           fetch="git://android.git.linaro.org/" />
   <remote  name="gh"
            fetch="git://github.com/" />
   <remote  name="github"
@@ -34,7 +32,6 @@
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/sample" name="device/sample" remote="linaro" revision="master" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" />
   <project path="vendor/commtiva" name="pjsports/proprietary_vendor_commtiva" remote="gh" revision="master" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
