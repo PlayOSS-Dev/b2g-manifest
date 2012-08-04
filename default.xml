@@ -26,7 +26,6 @@
   <project path="hardware/ril" name="platform_hardware_ril" remote="b2g" revision="master" />
   <project path="external/qemu" name="platform_external_qemu" remote="b2g" revision="master" />
   <project path="external/opensans" name="platform_external_opensans" remote="b2g" revision="master" />
-  <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" revision="jellybean" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
@@ -53,11 +52,8 @@
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
-  <project path="external/libnl-headers" name="CyanogenMod/android_external_libnl-headers" revision="jellybean" />
-  <project path="external/libphonenumber" name="CyanogenMod/android_external_libphonenumber" revision="ics" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" />
   <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
-  <project path="external/mksh" name="CyanogenMod/android_external_mksh" revision="jellybean" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
   <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" />
   <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" />
@@ -68,7 +64,6 @@
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" />
   <project path="external/tagsoup" name="CyanogenMod/android_external_tagsoup" />
-  <project path="external/tinyalsa" name="CyanogenMod/android_external_tinyalsa" revision="jellybean" />
   <project path="external/tremolo" name="CyanogenMod/android_external_tremolo" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" revision="master" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" revision="ics" />
