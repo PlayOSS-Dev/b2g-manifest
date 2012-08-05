@@ -121,7 +121,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="device/sample" name="device/sample" />
-  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" />
+  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="gh" revision="gingerbread" />
   <project path="device/samsung/spica" name="tom3q/android_device_samsung_spica" remote="gh" revision="gingerbread" />
   <project path="vendor/commtiva" name="pjsports/proprietary_vendor_commtiva" remote="gh" revision="master" />
   <project path="gaia" name="gaia" remote="b2g" revision="0f120e3a40edd3e4957fb97388d4b1cb173fa8bf" />
