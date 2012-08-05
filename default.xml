@@ -22,7 +22,7 @@
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
-  <project path="external/clearsilver" name="platform/external/clearsilver" />
+  <project path="external/clearsilver" name="android/platform_external_clearsilver" remote="gh" revision="gingerbread" />
   <project path="external/jdiff" name="platform/external/jdiff" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/proguard" name="platform/external/proguard" />
