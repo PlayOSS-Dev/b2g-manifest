@@ -87,7 +87,7 @@
   <project path="hardware/libhardware" name="pjsports/android_hardware_libhardware" remote="gh" revision="master" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" revision="af9565aa8be0136463ec549d9d3abdd906d2c390" />
   <project path="hardware/ril" name="pjsports/android_hardware_ril" remote="gh" revision="ics" />
-  <project path="hardware/msm7k" name="pjsports/android_hardware_msm7k" remote="gh" revision="master" />
+  <project path="hardware/msm7k" name="pjsports/android_hardware_msm7k" remote="gh" revision="ics" />
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
   <project path="prebuilt" name="platform/prebuilt" revision="master" />
